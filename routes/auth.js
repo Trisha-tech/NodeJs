@@ -19,7 +19,7 @@ const sendgridTransport = require('nodemailer-sendgrid-transport')
 //SEND EMAIL FUNCTION STARTS
 const transporter = nodemailer.createTransport(sendgridTransport({
     auth: {
-        api_key: "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"
+        api_key: "*********************************************************"
     }
 }))
 //SEND EMAIL FUNCTION ENDS
@@ -158,5 +158,3 @@ router.post('/new-password',(req,res)=>{
 //NEW PASSWORD ROUTE ENDS
 
 module.exports = router
-
-//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
