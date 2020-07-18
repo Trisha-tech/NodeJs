@@ -7,7 +7,7 @@ const {MONGOURI}=require('./keys')
 
 
 /*MONGODB CONNECTION START*/
-//o7nYFVRDPyJY8eMf
+
 //mongodb+srv://trisha:<password>@cluster0.mc8nq.mongodb.net/<dbname>?retryWrites=true&w=majority
 mongoose.connect(MONGOURI,{
 useNewUrlParser:true,
