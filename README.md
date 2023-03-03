@@ -16,25 +16,25 @@
 1. First of all, make a folder and open terminal. Make sure you have installed **NODEJS** on your computer/laptop.
 
 
-2. To start the **nodejs server**, write:
+2. To start the ```nodejs server```, write:
 
 ```
 npm init
 ```
 
-on your terminal and press **ENTER**.
+on your terminal and press ```ENTER```.
 
 
-3. To install **express**, use:
+3. To install ```express```, use:
 
 ```
 npm install express
 ```
 
-and press **ENTER**.
+and press ```ENTER```.
 
 
-4. To install **nodemon**, use:
+4. To install ```nodemon```, use:
 
 ```
 npm install nodemon -g
@@ -48,32 +48,32 @@ If this is your first project on nodejs, install it globally so that you don't h
 
 - Install **MongoDB** on your computer and signup.
 
-- To create a new project, go to **CREATE NEW PROJECT**.
+- To create a new project, go to ```CREATE NEW PROJECT```.
 
 - Build a cluster (If you are working on small projects, you can choose free one).
 
-- Go to **NETWORK ACCESS** and add an **IP ADDRESS**.
+- Go to ```NETWORK ACCESS``` and add an ```IP ADDRESS```.
 
-- Go to **DATABASE ACCESS**, then enter **Username** and **Autogenerate Password**.
+- Go to ```DATABASE ACCESS```, then enter ```Username``` and ```Autogenerate Password```.
 
-- Go to **CONNECT**, then choose **Connect Your Application**. Copy the string and paste it in your VSCode Editor as a comment.
+- Go to ```CONNECT```, then choose ```Connect Your Application```. Copy the string and paste it in your VSCode Editor as a comment.
 
 
-6. To install **mongoose**, use:
+6. To install ```mongoose```, use:
 
 ```
 npm install mongoose
 ```
 
 
-7. To install **bcrypt**, use:
+7. To install ```bcrypt```, use:
 
 ```
 npm install bcrypt
 ```
 
 
-8. To install **jsonwebtoken**, use:
+8. To install ```jsonwebtoken```, use:
 
 ```
 npm install jsonwebtoken
@@ -84,21 +84,21 @@ npm install jsonwebtoken
 
 - Create **SENDGRID** account.
 
-- Go to **SETTING --> API KEYS**
+- Go to ```SETTING --> API KEYS```
 
-- Give a name and select **FULL ACCESS** and create the key.
+- Give a name and select ```FULL ACCESS``` and create the key.
 
 - Copy the key. (paste it in your VSCode Editor as a comment)
 
 
-10. To install **nodemailer**, use:
+10. To install ```nodemailer```, use:
 
 ```
 npm install nodemailer
 ```
 
 
-11. To install **nodemailer-sendgrid-transport**, use:
+11. To install ```nodemailer-sendgrid-transport```, use:
 
 ```
 npm install nodemailer-sendgrid-transport
